@@ -1,4 +1,8 @@
 # Famiecare Mobile Application
+<p float="left" style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/8d4008ff-578e-45f3-9894-e6b574ec75dd" width="45%" />
+    <img src="https://github.com/user-attachments/assets/e89e16c4-c7d5-4154-b231-2917127974f9" width="45%" />
+</p>
 
 ## Project Overview
 The **Famiecare Mobile Application** is designed to simplify the daily tasks of individuals, focusing on assisting women with busy schedules. The application facilitates the prompt delivery of groceries and essential items to the user’s doorstep, ensuring quality and time efficiency.
