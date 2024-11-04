@@ -4,10 +4,9 @@
 The **Famiecare Mobile Application** is designed to simplify the daily tasks of individuals, focusing on assisting women with busy schedules. The application facilitates the prompt delivery of groceries and essential items to the user’s doorstep, ensuring quality and time efficiency.
 
 ## Organization and Contributors
-- **Developed By**: Varshil Shah (3067) & Aman Sheth (3068)
+- **Developed By**: Varshil Shah & Aman Sheth
 - **Affiliated Institution**: K.S. School of Business Management, Gujarat University
 - **Supervised By**: Datahay Infotech LLP
-- **Submission Date**: April 24, 2023
 
 ## Key Features
 - **User-Friendly Interface**: Easy-to-navigate app design for seamless user experience.
